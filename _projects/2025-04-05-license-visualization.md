@@ -18,7 +18,7 @@ This chart explores how licenses are spread across counties, filtered by type...
 
 ## Data + Notebook
 [The Data](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv)  
-[The Analysis](https://github.com/dgeni2/dgeni2.github.io/python_notebooks/licenses-visualization.ipynb)
+[The Analysis](https://github.com/dgeni2/dgeni2.github.io/blob/main/python_notebooks/Workbook.ipynb)
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
